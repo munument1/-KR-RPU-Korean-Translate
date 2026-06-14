@@ -15,7 +15,7 @@
 [**최신 버전 다운로드**](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
 | [**설치 가이드**](#설치-가이드)
 | [**버그 제보**](#버그-제보-및-기능-제안)
-| [**다국어 지원 정보**](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/translations.md)
+| [**다국어 지원 정보**](docs/translations.md)
 | [**추가 모드**](#추가-모드-목록)
 
 ---
@@ -23,7 +23,7 @@
 ### 설치 가이드
 
 - RPU는 아무런 모드도 설치되지 않은 순정(Vanilla) 게임 상태에서 설치해야 합니다.
-- 설치를 마친 후에는 반드시 **새 게임**을 시작해야 정상적으로 적용됩니다. (기존 RP 모드나 이전 RPU 버전에서 [업데이트](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/update.md)하는 경우는 제외)
+- 설치를 마친 후에는 반드시 **새 게임**을 시작해야 정상적으로 적용됩니다. (기존 RPU 혹은 이전 RPU 버전에서 [업데이트](docs/update.md)하는 경우는 제외)
 
 #### Windows 환경
 1. [최신 릴리즈 페이지](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)에서 `rpu_v*.exe` 파일을 다운로드합니다.
@@ -32,7 +32,7 @@
 4. 더 풍부한 경험을 원하시면 아래의 [권장 추가 모드](#권장-추가-모드)들을 확인해 보세요.
 
 #### Linux / MacOS 환경
-- 다음 [안내 문서](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/linux.md)를 참조해 주세요.
+- 다음 [안내 문서](docs/linux.md)를 참조해 주세요.
 
 ---
 
@@ -68,10 +68,10 @@
 
 ---
 
-### 추가 참조 링크 (영문)
-- [변경 이력 (Changelog)](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/changelog.md)
-- [RPU 추가 콘텐츠 설명 (스포일러 포함)](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/rp-new_content.txt)
+### 추가 참조 링크
+- [변경 이력 (Changelog)](docs/changelog.md)
+- [RPU 추가 콘텐츠 설명 (스포일러 포함)](docs/rp-new_content.md)
 - [RPU 전체 공략 가이드 (강한 스포일러 포함)](https://f2rp.bgforge.net/)
-- [알려진 문제점 목록 (Known issues)](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/known.md)
+- [알려진 문제점 목록 (Known issues)](docs/known.md)
 - [크래시/팅김 현상 제보 방법](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/crash.md)
-- [기여자 정보 (Credits)](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/credits.md)
+- [기여자 정보 (Credits)](docs/credits.md)
