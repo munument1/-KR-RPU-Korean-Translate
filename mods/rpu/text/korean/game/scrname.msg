@@ -215,7 +215,7 @@
 {297}{}{모독 우물}                       # ModWell.int     ; Modoc Well
 {298}{}{NCR 구역 2}                     # ncr2.int        ; NCR area 2
 {299}{}{아로요 정원}                 # ArGarden.int    ; Arroyo Gardens map script
-{300}{}{겍코}                          # ACGecko.int     ; generic Gecko creature
+{300}{}{게코}                          # ACGecko.int     ; generic Gecko creature
 {301}{}{브룩 꽃}                    # AIBroc.int      ; Arroyo Broc Flower
 {302}{}{잰더 뿌리}                    # AIXander.int    ; Arroyo Xander Root
 {303}{}{브라민}                        # ZCBrahmn.int    ; Generic Brahmin
@@ -1373,7 +1373,7 @@
 {1455}{}{Tribe map2}                    # tribem2.int     ; Primitive Tribe Map 2
 {1456}{}{부족 지도 2 - 공간 1}       # tribesp1.int    ; cave entrance spacial
 {1457}{}{부족 지도 2 - 공간 2}       # tribesp2.int    ; cavein spacial
-{1458}{}{겍코}                         # tribec10.int    ; Gecko in Tribe Cave
+{1458}{}{게코}                         # tribec10.int    ; Gecko in Tribe Cave
 {1459}{}{동굴 경비}                    # tribec11.int    ; Tribal guarding entrance to cave
 {1460}{}{시체}                     # tribec5a.int    ; Nessa's dead body
 {1461}{}{숲 공간}                 # tribesp3.int    ; spacial to trigger seeing the ghost
