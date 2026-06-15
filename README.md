@@ -5,7 +5,9 @@
 > - 본 저장소는 오리지널 모드(`Fallout2_Restoration_Project`)의 전체 소스 코드를 포함하지 않으며, **한국어 번역 리소스 파일만 업로드하여 관리 및 배포하는 독립 저장소**입니다.
 > - 모드를 사용하기 위해서는 반드시 원본 모드가 먼저 설치되어 있어야 합니다. 원본 모드는 아래 링크를 통해 다운로드해 주세요.
 > - 원본 모드 프로젝트: [BGforgeNet/Fallout2_Restoration_Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project)
-> [CREDIT]
+> - 
+> - 
+> - [CREDIT]
 > - 정글생선
 > - PT-76
 > - 다음 제작자 분들의 번역을 이어 진행했습니다.
