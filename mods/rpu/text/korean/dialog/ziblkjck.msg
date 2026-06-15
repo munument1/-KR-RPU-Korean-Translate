@@ -17,7 +17,7 @@
 #    (card face like #201-213) of (card suit like #251-254) for
 #    (Black Jack, a bust, or the total of the cards ranging from 15-21)
 {112}{}{당신은 }
-{113}{}{ }
+{113}{}{의 }
 {114}{}{, }
 {115}{}{ 그리고 }
 {116}{}{를 뽑았고, 합계는 }
