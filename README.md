@@ -82,3 +82,4 @@
 - [알려진 문제점 목록 (Known issues)](docs/known.md)
 - [크래시/팅김 현상 제보 방법](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/crash.md)
 - [기여자 정보 (Credits)](docs/credits.md)
+- (한글호환패치 [소스코드](https://github.com/munument1/Unofficial-KR-Sfall))
